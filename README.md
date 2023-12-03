@@ -74,3 +74,6 @@
 
 - LINE通知：
   - ユーザーからの目撃情報が寄せられると、関連するユーザーに通知が飛ぶ機能を実装
+
+## 画面遷移図
+https://www.figma.com/file/jLXn6Ymt79a5OcaTQcM3ow/nekoneko_finder?type=design&node-id=0%3A1&mode=design&t=5v1U84SYQPFG4Her-1

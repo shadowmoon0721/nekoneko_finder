@@ -77,3 +77,6 @@
 
 ## 画面遷移図
 https://www.figma.com/file/jLXn6Ymt79a5OcaTQcM3ow/nekoneko_finder?type=design&node-id=0%3A1&mode=design&t=5v1U84SYQPFG4Her-1
+
+## ER図
+https://gyazo.com/3029462779375a3f363b8ef5097060a6
